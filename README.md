@@ -1,2 +1,2 @@
-# Payment-Gateway-Booster
-Payment Gateway Booster And Optimizer
+# Plural Checkout
+Plural Checkout
